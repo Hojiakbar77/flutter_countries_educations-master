@@ -1,0 +1,4364 @@
+[
+  {
+    "id": 1,
+    "name": "Andijon tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 20
+  },
+  {
+    "id": 2,
+    "name": "Andijon tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 20
+  },
+  {
+    "id": 3,
+    "name": "Andijon tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 20
+  },
+  {
+    "id": 4,
+    "name": "Andijon tuman pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 20
+  },
+  {
+    "id": 5,
+    "name": "Andijon axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 20
+  },
+  {
+    "id": 6,
+    "name": "Andijon shahar 5-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 7,
+    "name": "Andijon shahar 4-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 8,
+    "name": "Andijon shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 9,
+    "name": "Andijon shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 10,
+    "name": "Andijon shahar 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 11,
+    "name": "Andijon turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 12,
+    "name": "Andijon shahar pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 13,
+    "name": "Andijon transport texnikumi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 14,
+    "name": "Andijon viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 15,
+    "name": "Andijon arxitektura-qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 16,
+    "name": "Andijon mediatalim texnikumi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 17,
+    "name": "Andijon Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 18
+  },
+  {
+    "id": 18,
+    "name": "Asaka tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 19,
+    "name": "Asaka tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 20,
+    "name": "Asaka tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 21,
+    "name": "Asaka avtomobilsozlik kolleji",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 22,
+    "name": "Asaka tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 23,
+    "name": "Asaka pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 24,
+    "name": "Asaka agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 25,
+    "name": "Asaka transport va xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 21
+  },
+  {
+    "id": 26,
+    "name": "Baliqchi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 22
+  },
+  {
+    "id": 27,
+    "name": "Baliqchi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 22
+  },
+  {
+    "id": 28,
+    "name": "Baliqchi tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 22
+  },
+  {
+    "id": 29,
+    "name": "Baliqchi pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 22
+  },
+  {
+    "id": 30,
+    "name": "Buloqboshi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 23
+  },
+  {
+    "id": 31,
+    "name": "Buloqboshi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 23
+  },
+  {
+    "id": 32,
+    "name": "Buloqboshi pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 23
+  },
+  {
+    "id": 33,
+    "name": "Bo'ston (Bo'z) tumani kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 24
+  },
+  {
+    "id": 34,
+    "name": "Bo'ston Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 24
+  },
+  {
+    "id": 35,
+    "name": "Jalaquduq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 26
+  },
+  {
+    "id": 36,
+    "name": "Jalaquduq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 26
+  },
+  {
+    "id": 37,
+    "name": "Jalaquduq pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 26
+  },
+  {
+    "id": 38,
+    "name": "Izboskan tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 25
+  },
+  {
+    "id": 39,
+    "name": "Izboskan tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 25
+  },
+  {
+    "id": 40,
+    "name": "Izboskan agrosanoat texnikumi",
+    "type_id": 2,
+    "district_id": 25
+  },
+  {
+    "id": 41,
+    "name": "Qo'rg'ontepa tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 33
+  },
+  {
+    "id": 42,
+    "name": "Qo'rg'ontepa tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 33
+  },
+  {
+    "id": 43,
+    "name": "Qo'rg'ontepa pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 33
+  },
+  {
+    "id": 44,
+    "name": "Qo'rg'ontepa Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 33
+  },
+  {
+    "id": 45,
+    "name": "Marhamat tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 27
+  },
+  {
+    "id": 46,
+    "name": "Marhamat tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 27
+  },
+  {
+    "id": 47,
+    "name": "Marhamat pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 27
+  },
+  {
+    "id": 48,
+    "name": "Andijon veterinariya meditsinasi texnikumi",
+    "type_id": 2,
+    "district_id": 27
+  },
+  {
+    "id": 49,
+    "name": "Marhamat agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 27
+  },
+  {
+    "id": 50,
+    "name": "Oltinko'l tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 28
+  },
+  {
+    "id": 51,
+    "name": "Oltinko'l tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 28
+  },
+  {
+    "id": 52,
+    "name": "Oltinko'l iqtisodiyot texnikumi",
+    "type_id": 2,
+    "district_id": 28
+  },
+  {
+    "id": 53,
+    "name": "Paxtaobod tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 29
+  },
+  {
+    "id": 54,
+    "name": "Paxtaobod tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 29
+  },
+  {
+    "id": 55,
+    "name": "Paxtaobod pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 29
+  },
+  {
+    "id": 56,
+    "name": "Paxtaobod Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 29
+  },
+  {
+    "id": 57,
+    "name": "Paxtaobod qishloq xo'jaligi texnikumi",
+    "type_id": 2,
+    "district_id": 29
+  },
+  {
+    "id": 58,
+    "name": "Ulug'nor tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 30
+  },
+  {
+    "id": 59,
+    "name": "Xonobod shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 19
+  },
+  {
+    "id": 60,
+    "name": "Xonobod pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 19
+  },
+  {
+    "id": 61,
+    "name": "Xonobod sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 19
+  },
+  {
+    "id": 62,
+    "name": "Xo'jaobod tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 31
+  },
+  {
+    "id": 63,
+    "name": "Xo'jaobod tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 31
+  },
+  {
+    "id": 64,
+    "name": "Xo'jaobod pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 31
+  },
+  {
+    "id": 65,
+    "name": "Shahrixon tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 32
+  },
+  {
+    "id": 66,
+    "name": "Shahrixon tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 32
+  },
+  {
+    "id": 67,
+    "name": "Shahrixon pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 32
+  },
+  {
+    "id": 68,
+    "name": "Shahrixon agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 32
+  },
+  {
+    "id": 69,
+    "name": "Shahrixon agrosanoat texnikumi",
+    "type_id": 2,
+    "district_id": 32
+  },
+  {
+    "id": 70,
+    "name": "Buxoro tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 36
+  },
+  {
+    "id": 71,
+    "name": "Galaosiyo suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 36
+  },
+  {
+    "id": 72,
+    "name": "Buxoro shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 73,
+    "name": "Buxoro neft va gaz sanoati kolleji",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 74,
+    "name": "Buxoro pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 75,
+    "name": "Buxoro arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 76,
+    "name": "Buxoro Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 77,
+    "name": "Buxoro turizm texnikumi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 78,
+    "name": "Buxoro soliq texnikumi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 79,
+    "name": "Buxoro viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 80,
+    "name": "Buxoro avtomobil va yo'llar texnikumi",
+    "type_id": 2,
+    "district_id": 34
+  },
+  {
+    "id": 81,
+    "name": "Vobkent tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 37
+  },
+  {
+    "id": 82,
+    "name": "Vobkent tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 37
+  },
+  {
+    "id": 83,
+    "name": "Vobkent pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 37
+  },
+  {
+    "id": 84,
+    "name": "Vobkent sanoat va transport texnikumi",
+    "type_id": 2,
+    "district_id": 37
+  },
+  {
+    "id": 85,
+    "name": "G'ijduvon tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 46
+  },
+  {
+    "id": 86,
+    "name": "G'ijduvon tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 46
+  },
+  {
+    "id": 87,
+    "name": "G'ijduvon tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 46
+  },
+  {
+    "id": 88,
+    "name": "G'ijduvon tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 46
+  },
+  {
+    "id": 89,
+    "name": "G'ijduvon pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 46
+  },
+  {
+    "id": 90,
+    "name": "G'ijduvon agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 46
+  },
+  {
+    "id": 91,
+    "name": "Jondor tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 38
+  },
+  {
+    "id": 92,
+    "name": "Jondor tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 38
+  },
+  {
+    "id": 93,
+    "name": "Jondor pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 38
+  },
+  {
+    "id": 94,
+    "name": "Jondor qurilish va milliy hunarmandchilik kolleji",
+    "type_id": 2,
+    "district_id": 38
+  },
+  {
+    "id": 95,
+    "name": "Kogon tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 39
+  },
+  {
+    "id": 96,
+    "name": "Kogon shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 35
+  },
+  {
+    "id": 97,
+    "name": "Kogon pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 35
+  },
+  {
+    "id": 98,
+    "name": "Qorako'l tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 44
+  },
+  {
+    "id": 99,
+    "name": "Qorako'l tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 44
+  },
+  {
+    "id": 100,
+    "name": "Qorako'l pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 44
+  },
+  {
+    "id": 101,
+    "name": "Qorako'l Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 44
+  },
+  {
+    "id": 102,
+    "name": "Qorovulbozor tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 45
+  },
+  {
+    "id": 103,
+    "name": "Olot tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 40
+  },
+  {
+    "id": 104,
+    "name": "Peshku tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 41
+  },
+  {
+    "id": 105,
+    "name": "Peshku tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 41
+  },
+  {
+    "id": 106,
+    "name": "Afshona Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 41
+  },
+  {
+    "id": 107,
+    "name": "Romitan tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 42
+  },
+  {
+    "id": 108,
+    "name": "Romitan tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 42
+  },
+  {
+    "id": 109,
+    "name": "Romitan agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 42
+  },
+  {
+    "id": 110,
+    "name": "Shofirkon tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 43
+  },
+  {
+    "id": 111,
+    "name": "Shofirkon pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 43
+  },
+  {
+    "id": 112,
+    "name": "Shofirkon qishloq ho'jaligi mahsulotlari texnologiyasi texnikumi",
+    "type_id": 2,
+    "district_id": 43
+  },
+  {
+    "id": 113,
+    "name": "Buxoro axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 43
+  },
+  {
+    "id": 114,
+    "name": "Arnasoy tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 47
+  },
+  {
+    "id": 115,
+    "name": "Arnasoy qishloq xo'jaligi kolleji",
+    "type_id": 2,
+    "district_id": 47
+  },
+  {
+    "id": 116,
+    "name": "Baxmal tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 48
+  },
+  {
+    "id": 117,
+    "name": "Baxmal tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 48
+  },
+  {
+    "id": 118,
+    "name": "Baxmal pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 48
+  },
+  {
+    "id": 119,
+    "name": "Baxmal 2-son pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 48
+  },
+  {
+    "id": 120,
+    "name": "Baxmal iqtisodiyot va turizm texnikumi",
+    "type_id": 2,
+    "district_id": 48
+  },
+  {
+    "id": 121,
+    "name": "G'allaorol tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 49
+  },
+  {
+    "id": 122,
+    "name": "G'allaorol tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 49
+  },
+  {
+    "id": 123,
+    "name": "G'allaorol tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 49
+  },
+  {
+    "id": 124,
+    "name": "G'allaorol agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 49
+  },
+  {
+    "id": 125,
+    "name": "G'allaorol xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 49
+  },
+  {
+    "id": 126,
+    "name": "Do'stlik suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 51
+  },
+  {
+    "id": 127,
+    "name": "Do'stlik Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 51
+  },
+  {
+    "id": 128,
+    "name": "Jizzax shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 59
+  },
+  {
+    "id": 129,
+    "name": "Jizzax Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 59
+  },
+  {
+    "id": 130,
+    "name": "Jizzax viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 59
+  },
+  {
+    "id": 131,
+    "name": "Jizzax arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 59
+  },
+  {
+    "id": 132,
+    "name": "Zarbdor tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 52
+  },
+  {
+    "id": 133,
+    "name": "Zafarobod tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 53
+  },
+  {
+    "id": 134,
+    "name": "Zomin tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 54
+  },
+  {
+    "id": 135,
+    "name": "Zomin tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 54
+  },
+  {
+    "id": 136,
+    "name": "Zomin turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 54
+  },
+  {
+    "id": 137,
+    "name": "Zomin pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 54
+  },
+  {
+    "id": 138,
+    "name": "Zomin Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 54
+  },
+  {
+    "id": 139,
+    "name": "Zomin tumani ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 54
+  },
+  {
+    "id": 140,
+    "name": "Mirzacho'l tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 55
+  },
+  {
+    "id": 141,
+    "name": "Mirzacho'l agrosanoat texnikumi",
+    "type_id": 2,
+    "district_id": 55
+  },
+  {
+    "id": 142,
+    "name": "Paxtakor tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 56
+  },
+  {
+    "id": 143,
+    "name": "Paxtakor pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 56
+  },
+  {
+    "id": 144,
+    "name": "Paxtakor sanoat texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 56
+  },
+  {
+    "id": 145,
+    "name": "Forish tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 57
+  },
+  {
+    "id": 146,
+    "name": "Sharof Rashidov tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 50
+  },
+  {
+    "id": 147,
+    "name": "Sharof Rashidov tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 50
+  },
+  {
+    "id": 148,
+    "name": "Jizzax axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 50
+  },
+  {
+    "id": 149,
+    "name": "Sharof Rashidov politexnika texnikumi",
+    "type_id": 2,
+    "district_id": 50
+  },
+  {
+    "id": 150,
+    "name": "Yangiobod tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 58
+  },
+  {
+    "id": 151,
+    "name": "G'uzor tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 71
+  },
+  {
+    "id": 152,
+    "name": "G'uzor tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 71
+  },
+  {
+    "id": 153,
+    "name": "G'uzor energetika sanoati texnikumi",
+    "type_id": 2,
+    "district_id": 71
+  },
+  {
+    "id": 154,
+    "name": "G'uzor sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 71
+  },
+  {
+    "id": 155,
+    "name": "Dehqonobod tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 63
+  },
+  {
+    "id": 156,
+    "name": "Dehqonobod tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 63
+  },
+  {
+    "id": 157,
+    "name": "Dehqonobod tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 63
+  },
+  {
+    "id": 158,
+    "name": "Dehqonobod kimyo sanoati kolleji",
+    "type_id": 2,
+    "district_id": 63
+  },
+  {
+    "id": 159,
+    "name": "Kasbi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 72
+  },
+  {
+    "id": 160,
+    "name": "Kasbi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 72
+  },
+  {
+    "id": 161,
+    "name": "Kasbi suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 72
+  },
+  {
+    "id": 162,
+    "name": "Kasbi oziq-ovqat sanoati texnikumi",
+    "type_id": 2,
+    "district_id": 72
+  },
+  {
+    "id": 163,
+    "name": "Kitob tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 69
+  },
+  {
+    "id": 164,
+    "name": "Kitob tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 69
+  },
+  {
+    "id": 165,
+    "name": "Kitob tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 69
+  },
+  {
+    "id": 166,
+    "name": "Koson tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 61
+  },
+  {
+    "id": 167,
+    "name": "Koson tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 61
+  },
+  {
+    "id": 168,
+    "name": "Koson tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 61
+  },
+  {
+    "id": 169,
+    "name": "Koson pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 61
+  },
+  {
+    "id": 170,
+    "name": "Koson agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 61
+  },
+  {
+    "id": 171,
+    "name": "Qamashi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 67
+  },
+  {
+    "id": 172,
+    "name": "Qamashi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 67
+  },
+  {
+    "id": 173,
+    "name": "Qamashi tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 67
+  },
+  {
+    "id": 174,
+    "name": "Qamashi pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 67
+  },
+  {
+    "id": 175,
+    "name": "Qamashi suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 67
+  },
+  {
+    "id": 176,
+    "name": "Qarshi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 60
+  },
+  {
+    "id": 177,
+    "name": "Qarshi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 60
+  },
+  {
+    "id": 178,
+    "name": "Qarshi tuman yengil sanoat kolleji",
+    "type_id": 2,
+    "district_id": 60
+  },
+  {
+    "id": 179,
+    "name": "Beshkent qishloq xo'jaligi texnikumi",
+    "type_id": 2,
+    "district_id": 60
+  },
+  {
+    "id": 180,
+    "name": "Qarshi shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 70
+  },
+  {
+    "id": 181,
+    "name": "Qarshi kommunal xo'jaligi kolleji",
+    "type_id": 2,
+    "district_id": 70
+  },
+  {
+    "id": 182,
+    "name": "Qarshi qurilish kolleji",
+    "type_id": 2,
+    "district_id": 70
+  },
+  {
+    "id": 183,
+    "name": "Qarshi transport texnikumi",
+    "type_id": 2,
+    "district_id": 70
+  },
+  {
+    "id": 184,
+    "name": "Qashqadaryo viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 70
+  },
+  {
+    "id": 185,
+    "name": "Qarshi Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 70
+  },
+  {
+    "id": 186,
+    "name": "Mirishkor tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 75
+  },
+  {
+    "id": 187,
+    "name": "Mirishkor tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 75
+  },
+  {
+    "id": 188,
+    "name": "Muborak tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 74
+  },
+  {
+    "id": 189,
+    "name": "Muborak Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 74
+  },
+  {
+    "id": 190,
+    "name": "Nishon tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 66
+  },
+  {
+    "id": 191,
+    "name": "Nishon tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 66
+  },
+  {
+    "id": 192,
+    "name": "Nishon energetika kolleji",
+    "type_id": 2,
+    "district_id": 66
+  },
+  {
+    "id": 193,
+    "name": "Qashqadaryo axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 66
+  },
+  {
+    "id": 194,
+    "name": "Chiroqchi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 68
+  },
+  {
+    "id": 195,
+    "name": "Chiroqchi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 68
+  },
+  {
+    "id": 196,
+    "name": "Chiroqchi tuman 4-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 68
+  },
+  {
+    "id": 197,
+    "name": "Chiroqchi tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 68
+  },
+  {
+    "id": 198,
+    "name": "Chiroqchi pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 68
+  },
+  {
+    "id": 199,
+    "name": "Shahrisabz tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 73
+  },
+  {
+    "id": 200,
+    "name": "Shahrisabz tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 73
+  },
+  {
+    "id": 201,
+    "name": "Shahrisabz pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 73
+  },
+  {
+    "id": 202,
+    "name": "Miroqi pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 73
+  },
+  {
+    "id": 203,
+    "name": "Qashqadaryo arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 73
+  },
+  {
+    "id": 204,
+    "name": "Shahrisabz shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 64
+  },
+  {
+    "id": 205,
+    "name": "Shahrisabz shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 64
+  },
+  {
+    "id": 206,
+    "name": "Shahrisabz turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 64
+  },
+  {
+    "id": 207,
+    "name": "Shahrisabz geodeziya va ekologiya texnikumi",
+    "type_id": 2,
+    "district_id": 64
+  },
+  {
+    "id": 208,
+    "name": "Shahrisabz Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 64
+  },
+  {
+    "id": 209,
+    "name": "Yakkabog' tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 62
+  },
+  {
+    "id": 210,
+    "name": "Yakkabog' tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 62
+  },
+  {
+    "id": 211,
+    "name": "Yakkabog' tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 62
+  },
+  {
+    "id": 212,
+    "name": "Amudaryo tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 2
+  },
+  {
+    "id": 213,
+    "name": "Amudaryo tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 2
+  },
+  {
+    "id": 214,
+    "name": "Amudaryo muhandislik texnikumi",
+    "type_id": 2,
+    "district_id": 2
+  },
+  {
+    "id": 215,
+    "name": "Beruniy tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 3
+  },
+  {
+    "id": 216,
+    "name": "Beruniy tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 3
+  },
+  {
+    "id": 217,
+    "name": "Beruniy suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 3
+  },
+  {
+    "id": 218,
+    "name": "Beruniy pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 3
+  },
+  {
+    "id": 219,
+    "name": "Kegeyli tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 5
+  },
+  {
+    "id": 220,
+    "name": "Kegeyli tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 5
+  },
+  {
+    "id": 221,
+    "name": "Bo'zatov tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 5
+  },
+  {
+    "id": 222,
+    "name": "Kegeyli qishloq xo'jaligi kolleji",
+    "type_id": 2,
+    "district_id": 5
+  },
+  {
+    "id": 223,
+    "name": "Kegeyli xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 5
+  },
+  {
+    "id": 224,
+    "name": "Qonliko'l tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 6
+  },
+  {
+    "id": 225,
+    "name": "Qonliko'l pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 6
+  },
+  {
+    "id": 226,
+    "name": "Qorao'zak tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 7
+  },
+  {
+    "id": 227,
+    "name": "Qorao'zak agroiqtisodiyot texnikumi",
+    "type_id": 2,
+    "district_id": 7
+  },
+  {
+    "id": 228,
+    "name": "Qo'ng'irot tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 8
+  },
+  {
+    "id": 229,
+    "name": "Qo'ng'irot tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 8
+  },
+  {
+    "id": 230,
+    "name": "Qo'ng'irot kimyo sanoati kolleji",
+    "type_id": 2,
+    "district_id": 8
+  },
+  {
+    "id": 231,
+    "name": "Qo'ng'irot Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 8
+  },
+  {
+    "id": 232,
+    "name": "Qo'ng'irot sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 8
+  },
+  {
+    "id": 233,
+    "name": "Mo'ynoq tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 9
+  },
+  {
+    "id": 234,
+    "name": "Nukus tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 10
+  },
+  {
+    "id": 235,
+    "name": "Nukus shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 236,
+    "name": "Nukus shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 237,
+    "name": "Nukus qurilish kolleji",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 238,
+    "name": "Nukus 2-tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 239,
+    "name": "Nukus temir yo'l transporti kolleji",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 240,
+    "name": "Nukus transport texnikumi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 241,
+    "name": "Nukus veterinariya meditsinasi texnikumi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 242,
+    "name": "Nukus Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 243,
+    "name": "Qoraqalpog'iston Respublikasi Agro IT texnikumi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 244,
+    "name": "Qoraqalpog'iston Respublikasi yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 1
+  },
+  {
+    "id": 245,
+    "name": "Taxiatosh tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 11
+  },
+  {
+    "id": 246,
+    "name": "Taxiatosh energetika kolleji",
+    "type_id": 2,
+    "district_id": 11
+  },
+  {
+    "id": 247,
+    "name": "Taxiatosh pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 11
+  },
+  {
+    "id": 248,
+    "name": "Taxtako'pir tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 12
+  },
+  {
+    "id": 249,
+    "name": "To'rtko'l tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 13
+  },
+  {
+    "id": 250,
+    "name": "To'rtko'l tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 13
+  },
+  {
+    "id": 251,
+    "name": "To'rtko'l pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 13
+  },
+  {
+    "id": 252,
+    "name": "To'rtko'l tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 13
+  },
+  {
+    "id": 253,
+    "name": "To'rtko'l ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 13
+  },
+  {
+    "id": 254,
+    "name": "Xo'jayli tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 14
+  },
+  {
+    "id": 255,
+    "name": "Xo'jayli pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 14
+  },
+  {
+    "id": 256,
+    "name": "Xo'jayli ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 14
+  },
+  {
+    "id": 257,
+    "name": "Xo'jayli Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 14
+  },
+  {
+    "id": 258,
+    "name": "Xo'jayli xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 14
+  },
+  {
+    "id": 259,
+    "name": "Chimboy tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 15
+  },
+  {
+    "id": 260,
+    "name": "Chimboy pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 15
+  },
+  {
+    "id": 261,
+    "name": "Shumanay tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 16
+  },
+  {
+    "id": 262,
+    "name": "Shumanay pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 16
+  },
+  {
+    "id": 263,
+    "name": "Ellikqala tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 17
+  },
+  {
+    "id": 264,
+    "name": "Ellikqala tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 17
+  },
+  {
+    "id": 265,
+    "name": "Bo'ston axborot kommunikatsiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 17
+  },
+  {
+    "id": 266,
+    "name": "Zarafshon shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 77
+  },
+  {
+    "id": 267,
+    "name": "Zarafshon tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 77
+  },
+  {
+    "id": 268,
+    "name": "Zarafshon sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 77
+  },
+  {
+    "id": 269,
+    "name": "Karmana tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 79
+  },
+  {
+    "id": 270,
+    "name": "Karmana xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 79
+  },
+  {
+    "id": 271,
+    "name": "Navoiy axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 79
+  },
+  {
+    "id": 272,
+    "name": "Konimex tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 80
+  },
+  {
+    "id": 273,
+    "name": "Qiziltepa tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 81
+  },
+  {
+    "id": 274,
+    "name": "Qiziltepa tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 81
+  },
+  {
+    "id": 275,
+    "name": "Navoiy arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 81
+  },
+  {
+    "id": 276,
+    "name": "Navbahor tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 82
+  },
+  {
+    "id": 277,
+    "name": "Navbahor suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 82
+  },
+  {
+    "id": 278,
+    "name": "Navbahor ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 82
+  },
+  {
+    "id": 279,
+    "name": "Navoiy shaxri kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 76
+  },
+  {
+    "id": 280,
+    "name": "Navoiy Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 76
+  },
+  {
+    "id": 281,
+    "name": "Navoiy viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 76
+  },
+  {
+    "id": 282,
+    "name": "Nurota tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 83
+  },
+  {
+    "id": 283,
+    "name": "Nurota tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 83
+  },
+  {
+    "id": 284,
+    "name": "Nurota sanoat-konchilik kolleji",
+    "type_id": 2,
+    "district_id": 83
+  },
+  {
+    "id": 285,
+    "name": "Uchquduq tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 85
+  },
+  {
+    "id": 286,
+    "name": "Uchquduq sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 85
+  },
+  {
+    "id": 287,
+    "name": "Xatirchi tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 86
+  },
+  {
+    "id": 288,
+    "name": "Navoiy pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 86
+  },
+  {
+    "id": 289,
+    "name": "Xatirchi Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 86
+  },
+  {
+    "id": 290,
+    "name": "Xatirchi agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 86
+  },
+  {
+    "id": 291,
+    "name": "Kosonsoy tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 91
+  },
+  {
+    "id": 292,
+    "name": "Kosonsoy tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 91
+  },
+  {
+    "id": 293,
+    "name": "Kosonsoy tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 91
+  },
+  {
+    "id": 294,
+    "name": "Kosonsoy pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 91
+  },
+  {
+    "id": 295,
+    "name": "Kosonsoy sanoatda axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 91
+  },
+  {
+    "id": 296,
+    "name": "Kosonsoy Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 91
+  },
+  {
+    "id": 297,
+    "name": "Mingbuloq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 90
+  },
+  {
+    "id": 298,
+    "name": "Mingbuloq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 90
+  },
+  {
+    "id": 299,
+    "name": "Mingbuloq suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 90
+  },
+  {
+    "id": 300,
+    "name": "Mingbuloq pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 90
+  },
+  {
+    "id": 301,
+    "name": "Mingbuloq yengil sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 90
+  },
+  {
+    "id": 302,
+    "name": "Namangan tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 92
+  },
+  {
+    "id": 303,
+    "name": "Namangan tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 92
+  },
+  {
+    "id": 304,
+    "name": "Namangan tuman pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 92
+  },
+  {
+    "id": 305,
+    "name": "Namangan sanoat va iqtisodiyot texnikumi",
+    "type_id": 2,
+    "district_id": 92
+  },
+  {
+    "id": 306,
+    "name": "Namangan sharq tillari va xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 92
+  },
+  {
+    "id": 307,
+    "name": "Namangan shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 308,
+    "name": "Namangan shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 309,
+    "name": "Namangan pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 310,
+    "name": "Namangan 2-tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 311,
+    "name": "Namangan arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 312,
+    "name": "Namangan Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 313,
+    "name": "Namangan xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 314,
+    "name": "Namangan viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 315,
+    "name": "Namangan tadbirkorlikni tashkil etish texnikumi",
+    "type_id": 2,
+    "district_id": 87
+  },
+  {
+    "id": 316,
+    "name": "Norin tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 93
+  },
+  {
+    "id": 317,
+    "name": "Norin tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 93
+  },
+  {
+    "id": 318,
+    "name": "Norin tuman pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 93
+  },
+  {
+    "id": 319,
+    "name": "Norin Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 93
+  },
+  {
+    "id": 320,
+    "name": "Norin maishiy xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 93
+  },
+  {
+    "id": 321,
+    "name": "Pop tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 94
+  },
+  {
+    "id": 322,
+    "name": "Pop tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 94
+  },
+  {
+    "id": 323,
+    "name": "Pop tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 94
+  },
+  {
+    "id": 324,
+    "name": "Pop tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 94
+  },
+  {
+    "id": 325,
+    "name": "Pop pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 94
+  },
+  {
+    "id": 326,
+    "name": "To'raqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 95
+  },
+  {
+    "id": 327,
+    "name": "To'raqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 95
+  },
+  {
+    "id": 328,
+    "name": "To'raqo'rg'on pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 95
+  },
+  {
+    "id": 329,
+    "name": "To'raqo'rg'on agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 95
+  },
+  {
+    "id": 330,
+    "name": "To'raqo'rg'on agrosanoat texnikumi",
+    "type_id": 2,
+    "district_id": 95
+  },
+  {
+    "id": 331,
+    "name": "To'raqo'rg'on xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 95
+  },
+  {
+    "id": 332,
+    "name": "Uychi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 96
+  },
+  {
+    "id": 333,
+    "name": "Uychi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 96
+  },
+  {
+    "id": 334,
+    "name": "Uychi tumani pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 96
+  },
+  {
+    "id": 335,
+    "name": "Namangan sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 96
+  },
+  {
+    "id": 336,
+    "name": "Uychi jismoniy tarbiya va sport texnikumi",
+    "type_id": 2,
+    "district_id": 96
+  },
+  {
+    "id": 337,
+    "name": "Uchqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 97
+  },
+  {
+    "id": 338,
+    "name": "Uchqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 97
+  },
+  {
+    "id": 339,
+    "name": "Uchqo'rg'on pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 97
+  },
+  {
+    "id": 340,
+    "name": "Uchqo'rg'on sanoat-texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 97
+  },
+  {
+    "id": 341,
+    "name": "Chortoq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 98
+  },
+  {
+    "id": 342,
+    "name": "Chortoq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 98
+  },
+  {
+    "id": 343,
+    "name": "Chortoq pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 98
+  },
+  {
+    "id": 344,
+    "name": "Chortoq Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 98
+  },
+  {
+    "id": 345,
+    "name": "Chust tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 99
+  },
+  {
+    "id": 346,
+    "name": "Chust tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 99
+  },
+  {
+    "id": 347,
+    "name": "Chust tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 99
+  },
+  {
+    "id": 348,
+    "name": "Chust tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 99
+  },
+  {
+    "id": 349,
+    "name": "Chust pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 99
+  },
+  {
+    "id": 350,
+    "name": "Yangiqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 100
+  },
+  {
+    "id": 351,
+    "name": "Yangiqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 100
+  },
+  {
+    "id": 352,
+    "name": "Yangiqo'rg'on pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 100
+  },
+  {
+    "id": 353,
+    "name": "Yangiqo'rg'on axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 100
+  },
+  {
+    "id": 354,
+    "name": "Bulung'ur tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 103
+  },
+  {
+    "id": 355,
+    "name": "Bulung'ur tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 103
+  },
+  {
+    "id": 356,
+    "name": "Bulung'ur pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 103
+  },
+  {
+    "id": 357,
+    "name": "Jomboy tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 104
+  },
+  {
+    "id": 358,
+    "name": "Jomboy tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 104
+  },
+  {
+    "id": 359,
+    "name": "Jomboy agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 104
+  },
+  {
+    "id": 360,
+    "name": "Jomboy raqamli texnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 104
+  },
+  {
+    "id": 361,
+    "name": "Ishtixon tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 105
+  },
+  {
+    "id": 362,
+    "name": "Ishtixon tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 105
+  },
+  {
+    "id": 363,
+    "name": "Ishtixon pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 105
+  },
+  {
+    "id": 364,
+    "name": "Ishtixon Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 105
+  },
+  {
+    "id": 365,
+    "name": "Kattaqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 106
+  },
+  {
+    "id": 366,
+    "name": "Kattaqo'rg'on tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 106
+  },
+  {
+    "id": 367,
+    "name": "Kattaqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 106
+  },
+  {
+    "id": 368,
+    "name": "Kattaqo'rg'on tuman pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 106
+  },
+  {
+    "id": 369,
+    "name": "Kattaqo'rg'on shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 102
+  },
+  {
+    "id": 370,
+    "name": "Kattaqo'rg'on pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 102
+  },
+  {
+    "id": 371,
+    "name": "Kattaqo'rg'on Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 102
+  },
+  {
+    "id": 372,
+    "name": "Kattaqo'rg'on servis texnikumi",
+    "type_id": 2,
+    "district_id": 102
+  },
+  {
+    "id": 373,
+    "name": "Qo'shrabot tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 116
+  },
+  {
+    "id": 374,
+    "name": "Qo'shrabot tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 116
+  },
+  {
+    "id": 375,
+    "name": "Qo'shrabot pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 116
+  },
+  {
+    "id": 376,
+    "name": "Narpay tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 107
+  },
+  {
+    "id": 377,
+    "name": "Narpay tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 107
+  },
+  {
+    "id": 378,
+    "name": "Narpay xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 107
+  },
+  {
+    "id": 379,
+    "name": "Nurobod tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 108
+  },
+  {
+    "id": 380,
+    "name": "Nurobod tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 108
+  },
+  {
+    "id": 381,
+    "name": "Nurobod pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 108
+  },
+  {
+    "id": 382,
+    "name": "Oqdaryo tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 109
+  },
+  {
+    "id": 383,
+    "name": "Oqdaryo tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 109
+  },
+  {
+    "id": 384,
+    "name": "Oqdaryo pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 109
+  },
+  {
+    "id": 385,
+    "name": "Payariq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 110
+  },
+  {
+    "id": 386,
+    "name": "Payariq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 110
+  },
+  {
+    "id": 387,
+    "name": "Payariq tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 110
+  },
+  {
+    "id": 388,
+    "name": "Payariq tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 110
+  },
+  {
+    "id": 389,
+    "name": "Pastdarg'om tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 390,
+    "name": "Pastdarg'om tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 391,
+    "name": "Pastdarg'om tuman 4-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 392,
+    "name": "Pastdarg'om tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 393,
+    "name": "Pastdarg'om pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 394,
+    "name": "Pastdarg'om Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 395,
+    "name": "Pastdarg'om xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 111
+  },
+  {
+    "id": 396,
+    "name": "Paxtachi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 112
+  },
+  {
+    "id": 397,
+    "name": "Paxtachi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 112
+  },
+  {
+    "id": 398,
+    "name": "Paxtachi pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 112
+  },
+  {
+    "id": 399,
+    "name": "Paxtachi Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 112
+  },
+  {
+    "id": 400,
+    "name": "Samarqand tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 113
+  },
+  {
+    "id": 401,
+    "name": "Samarqand imkoniyati cheklangan shaxslar uchun ixtisoslashtirilgan kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 113
+  },
+  {
+    "id": 402,
+    "name": "Gulobod agrobiotexnologiya texnikumi",
+    "type_id": 2,
+    "district_id": 113
+  },
+  {
+    "id": 403,
+    "name": "Samarqand shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 404,
+    "name": "So'zangaron tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 405,
+    "name": "Samarqand qurilish kolleji",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 406,
+    "name": "Samarqand transport texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 407,
+    "name": "Samarqand viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 408,
+    "name": "Samarqand turizm va servis texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 409,
+    "name": "Samarqand veterinariya meditsinasi texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 410,
+    "name": "Samarqand arxitektura-qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 411,
+    "name": "Samarqand Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 412,
+    "name": "Samarqand temir yo'l texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 413,
+    "name": "Samarqand axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 414,
+    "name": "Samarqand avtomobilsozlik texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 415,
+    "name": "Samarqand transport va muhandislik kommunikatsiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 416,
+    "name": "Siyob Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 101
+  },
+  {
+    "id": 417,
+    "name": "Tayloq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 114
+  },
+  {
+    "id": 418,
+    "name": "Tayloq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 114
+  },
+  {
+    "id": 419,
+    "name": "Tayloq pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 114
+  },
+  {
+    "id": 420,
+    "name": "Urgut tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 421,
+    "name": "Urgut tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 422,
+    "name": "Urgut tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 423,
+    "name": "Urgut tuman 4-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 424,
+    "name": "Urgut tuman 5-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 425,
+    "name": "Urgut pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 426,
+    "name": "Urgut veterinariya meditsinasi texnikumi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 427,
+    "name": "Urgut Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 115
+  },
+  {
+    "id": 428,
+    "name": "Boyovut tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 117
+  },
+  {
+    "id": 429,
+    "name": "Boyovut tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 117
+  },
+  {
+    "id": 430,
+    "name": "Guliston tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 118
+  },
+  {
+    "id": 431,
+    "name": "Guliston agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 118
+  },
+  {
+    "id": 432,
+    "name": "Guliston tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 125
+  },
+  {
+    "id": 433,
+    "name": "Sirdaryo arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 125
+  },
+  {
+    "id": 434,
+    "name": "Sirdaryo viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 125
+  },
+  {
+    "id": 435,
+    "name": "Mirzaobod tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 119
+  },
+  {
+    "id": 436,
+    "name": "Mirzaobod texnologiya texnikumi",
+    "type_id": 2,
+    "district_id": 119
+  },
+  {
+    "id": 437,
+    "name": "Oqoltin tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 120
+  },
+  {
+    "id": 438,
+    "name": "Oqoltin sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 120
+  },
+  {
+    "id": 439,
+    "name": "Sayxunobod tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 122
+  },
+  {
+    "id": 440,
+    "name": "Sayxunobod tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 122
+  },
+  {
+    "id": 441,
+    "name": "Sardoba tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 121
+  },
+  {
+    "id": 442,
+    "name": "Sirdaryo tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 123
+  },
+  {
+    "id": 443,
+    "name": "Sirdaryo pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 123
+  },
+  {
+    "id": 444,
+    "name": "Sirdaryo agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 123
+  },
+  {
+    "id": 445,
+    "name": "Sirdaryo axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 123
+  },
+  {
+    "id": 446,
+    "name": "Sirdaryo Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 123
+  },
+  {
+    "id": 447,
+    "name": "Xovos tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 124
+  },
+  {
+    "id": 448,
+    "name": "Xovos tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 124
+  },
+  {
+    "id": 449,
+    "name": "Shirin energetika kolleji",
+    "type_id": 2,
+    "district_id": 127
+  },
+  {
+    "id": 450,
+    "name": "Yangiyer pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 126
+  },
+  {
+    "id": 451,
+    "name": "Yangiyer tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 126
+  },
+  {
+    "id": 452,
+    "name": "Angor tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 128
+  },
+  {
+    "id": 453,
+    "name": "Angor tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 128
+  },
+  {
+    "id": 454,
+    "name": "Angor pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 128
+  },
+  {
+    "id": 455,
+    "name": "Surxondaryo axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 128
+  },
+  {
+    "id": 456,
+    "name": "Angor ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 128
+  },
+  {
+    "id": 457,
+    "name": "Boysun tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 130
+  },
+  {
+    "id": 458,
+    "name": "Boysun tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 130
+  },
+  {
+    "id": 459,
+    "name": "Boysun ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 130
+  },
+  {
+    "id": 460,
+    "name": "Denov tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 461,
+    "name": "Denov tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 462,
+    "name": "Denov tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 463,
+    "name": "Denov tuman 4-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 464,
+    "name": "Denov pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 465,
+    "name": "Denov Hazarbog' agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 466,
+    "name": "Denov Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 131
+  },
+  {
+    "id": 467,
+    "name": "Jarqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 132
+  },
+  {
+    "id": 468,
+    "name": "Jarqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 132
+  },
+  {
+    "id": 469,
+    "name": "Jarqo'rg'on to'qimachilik kolleji",
+    "type_id": 2,
+    "district_id": 132
+  },
+  {
+    "id": 470,
+    "name": "Jarqo'rg'on biznes va yengil sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 132
+  },
+  {
+    "id": 471,
+    "name": "Qiziriq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 133
+  },
+  {
+    "id": 472,
+    "name": "Qiziriq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 133
+  },
+  {
+    "id": 473,
+    "name": "Qiziriq pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 133
+  },
+  {
+    "id": 474,
+    "name": "Qiziriq suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 133
+  },
+  {
+    "id": 475,
+    "name": "Qiziriq agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 133
+  },
+  {
+    "id": 476,
+    "name": "Qumqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 134
+  },
+  {
+    "id": 477,
+    "name": "Qumqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 134
+  },
+  {
+    "id": 478,
+    "name": "Qumqo'rg'on pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 134
+  },
+  {
+    "id": 479,
+    "name": "Qumqo'rg'on agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 134
+  },
+  {
+    "id": 480,
+    "name": "Qumqo'rg'on agrosanoat texnikumi",
+    "type_id": 2,
+    "district_id": 134
+  },
+  {
+    "id": 481,
+    "name": "Muzrabot tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 135
+  },
+  {
+    "id": 482,
+    "name": "Muzrabot pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 135
+  },
+  {
+    "id": 483,
+    "name": "Muzrabot xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 135
+  },
+  {
+    "id": 484,
+    "name": "Oltinsoy tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 136
+  },
+  {
+    "id": 485,
+    "name": "Oltinsoy tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 136
+  },
+  {
+    "id": 486,
+    "name": "Oltinsoy pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 136
+  },
+  {
+    "id": 487,
+    "name": "Sariosiyo tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 137
+  },
+  {
+    "id": 488,
+    "name": "Sariosiyo tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 137
+  },
+  {
+    "id": 489,
+    "name": "Sariosiyo pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 137
+  },
+  {
+    "id": 490,
+    "name": "Sariosiyo Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 137
+  },
+  {
+    "id": 491,
+    "name": "Termiz tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 138
+  },
+  {
+    "id": 492,
+    "name": "Surxondaryo arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 138
+  },
+  {
+    "id": 493,
+    "name": "Termiz shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 139
+  },
+  {
+    "id": 494,
+    "name": "Surxondaryo viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 139
+  },
+  {
+    "id": 495,
+    "name": "Termiz Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 139
+  },
+  {
+    "id": 496,
+    "name": "Uzun tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 140
+  },
+  {
+    "id": 497,
+    "name": "Uzun tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 140
+  },
+  {
+    "id": 498,
+    "name": "Uzun pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 140
+  },
+  {
+    "id": 499,
+    "name": "Uzun qishloq xo'jalik texnikumi",
+    "type_id": 2,
+    "district_id": 140
+  },
+  {
+    "id": 500,
+    "name": "Sherobod tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 141
+  },
+  {
+    "id": 501,
+    "name": "Sherobod tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 141
+  },
+  {
+    "id": 502,
+    "name": "Sherobod pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 141
+  },
+  {
+    "id": 503,
+    "name": "Sherobod Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 141
+  },
+  {
+    "id": 504,
+    "name": "Sherobod agrosanoat texnikumi",
+    "type_id": 2,
+    "district_id": 141
+  },
+  {
+    "id": 505,
+    "name": "Sho'rchi tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 142
+  },
+  {
+    "id": 506,
+    "name": "Sho'rchi tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 142
+  },
+  {
+    "id": 507,
+    "name": "Sho'rchi tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 142
+  },
+  {
+    "id": 508,
+    "name": "Sho'rchi tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 142
+  },
+  {
+    "id": 509,
+    "name": "Angren shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 143
+  },
+  {
+    "id": 510,
+    "name": "Angren shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 143
+  },
+  {
+    "id": 511,
+    "name": "Angren pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 143
+  },
+  {
+    "id": 512,
+    "name": "Angren tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 143
+  },
+  {
+    "id": 513,
+    "name": "Angren texnologiya texnikumi",
+    "type_id": 2,
+    "district_id": 143
+  },
+  {
+    "id": 514,
+    "name": "Angren kon-metallurgiya texnikumi",
+    "type_id": 2,
+    "district_id": 143
+  },
+  {
+    "id": 515,
+    "name": "Bekobod tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 150
+  },
+  {
+    "id": 516,
+    "name": "Toshkent viloyati pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 150
+  },
+  {
+    "id": 517,
+    "name": "Bekobod shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 144
+  },
+  {
+    "id": 518,
+    "name": "Bekobod kommunal xo'jaligi kolleji",
+    "type_id": 2,
+    "district_id": 144
+  },
+  {
+    "id": 519,
+    "name": "Bekobod Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 144
+  },
+  {
+    "id": 520,
+    "name": "Bo'ka tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 151
+  },
+  {
+    "id": 521,
+    "name": "Bo'ka tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 151
+  },
+  {
+    "id": 522,
+    "name": "Bo'ka pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 151
+  },
+  {
+    "id": 523,
+    "name": "Bo'ka agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 151
+  },
+  {
+    "id": 524,
+    "name": "Bo'stonliq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 152
+  },
+  {
+    "id": 525,
+    "name": "Bo'stonliq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 152
+  },
+  {
+    "id": 526,
+    "name": "Bo'stonliq turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 152
+  },
+  {
+    "id": 527,
+    "name": "Tovoqsoy ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 152
+  },
+  {
+    "id": 528,
+    "name": "Zangiota tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 153
+  },
+  {
+    "id": 529,
+    "name": "Zangiota Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 153
+  },
+  {
+    "id": 530,
+    "name": "Zangiota agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 153
+  },
+  {
+    "id": 531,
+    "name": "Qibray tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 154
+  },
+  {
+    "id": 532,
+    "name": "Qibray energetika kolleji",
+    "type_id": 2,
+    "district_id": 154
+  },
+  {
+    "id": 533,
+    "name": "Quyichirchiq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 155
+  },
+  {
+    "id": 534,
+    "name": "Quyichirchiq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 155
+  },
+  {
+    "id": 535,
+    "name": "Quyichirchiq politexnika texnikumi",
+    "type_id": 2,
+    "district_id": 155
+  },
+  {
+    "id": 536,
+    "name": "Oqqo'rg'on tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 156
+  },
+  {
+    "id": 537,
+    "name": "Oqqo'rg'on tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 156
+  },
+  {
+    "id": 538,
+    "name": "Olmaliq shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 146
+  },
+  {
+    "id": 539,
+    "name": "Olmaliq kon-metallurgiya kolleji",
+    "type_id": 2,
+    "district_id": 146
+  },
+  {
+    "id": 540,
+    "name": "Olmaliq arxitektura-qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 146
+  },
+  {
+    "id": 541,
+    "name": "Olmaliq Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 146
+  },
+  {
+    "id": 542,
+    "name": "Ohangaron tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 157
+  },
+  {
+    "id": 543,
+    "name": "Ohangaron tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 157
+  },
+  {
+    "id": 544,
+    "name": "Ohangaron tumani pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 157
+  },
+  {
+    "id": 545,
+    "name": "Ohangaron shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 147
+  },
+  {
+    "id": 546,
+    "name": "Parkent tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 158
+  },
+  {
+    "id": 547,
+    "name": "Parkent tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 158
+  },
+  {
+    "id": 548,
+    "name": "Parkent tumani pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 158
+  },
+  {
+    "id": 549,
+    "name": "Piskent tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 159
+  },
+  {
+    "id": 550,
+    "name": "Piskent tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 159
+  },
+  {
+    "id": 551,
+    "name": "Toshkent tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 160
+  },
+  {
+    "id": 552,
+    "name": "Toshkent tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 160
+  },
+  {
+    "id": 553,
+    "name": "Toshkent tumani xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 160
+  },
+  {
+    "id": 554,
+    "name": "O'rmon xo'jaligi texnikumi",
+    "type_id": 2,
+    "district_id": 160
+  },
+  {
+    "id": 555,
+    "name": "Nurafshon shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 161
+  },
+  {
+    "id": 556,
+    "name": "O'rtachirchiq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 161
+  },
+  {
+    "id": 557,
+    "name": "O'rtachirchiq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 161
+  },
+  {
+    "id": 558,
+    "name": "O'rta Chirchiq pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 161
+  },
+  {
+    "id": 559,
+    "name": "Toshkent viloyati axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 161
+  },
+  {
+    "id": 560,
+    "name": "Chinoz tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 162
+  },
+  {
+    "id": 561,
+    "name": "Chinoz tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 162
+  },
+  {
+    "id": 562,
+    "name": "Chinoz xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 162
+  },
+  {
+    "id": 563,
+    "name": "Chirchiq shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 148
+  },
+  {
+    "id": 564,
+    "name": "Chirchiq tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 148
+  },
+  {
+    "id": 565,
+    "name": "Toshkent tumani xizmat ko'rsatish va servis texnikumining Chirchiq filiali",
+    "type_id": 2,
+    "district_id": 148
+  },
+  {
+    "id": 566,
+    "name": "Yuqorichirchiq tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 163
+  },
+  {
+    "id": 567,
+    "name": "Yuqori Chirchiq pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 163
+  },
+  {
+    "id": 568,
+    "name": "Toshkent viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 163
+  },
+  {
+    "id": 569,
+    "name": "Yangiyo'l shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 164
+  },
+  {
+    "id": 570,
+    "name": "Yangiyo'l tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 164
+  },
+  {
+    "id": 571,
+    "name": "Yangiyo'l tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 164
+  },
+  {
+    "id": 572,
+    "name": "Yangiyo'l Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 164
+  },
+  {
+    "id": 573,
+    "name": "Yangiyo'l shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 149
+  },
+  {
+    "id": 574,
+    "name": "Yangiyo'l agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 149
+  },
+  {
+    "id": 575,
+    "name": "Respublika televidenie va radio kolleji",
+    "type_id": 2,
+    "district_id": 197
+  },
+  {
+    "id": 576,
+    "name": "Toshkent imkoniyati cheklangan shaxslar uchun ixtisoslashtirilgan 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 199
+  },
+  {
+    "id": 577,
+    "name": "Toshkent imkoniyati cheklangan shaxslar uchun ixtisoslashtirilgan 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 199
+  },
+  {
+    "id": 578,
+    "name": "Toshkent geodeziya va kartografiya kolleji",
+    "type_id": 2,
+    "district_id": 199
+  },
+  {
+    "id": 579,
+    "name": "Toshkent axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 199
+  },
+  {
+    "id": 580,
+    "name": "Toshkent temir yo'l texnikumi",
+    "type_id": 2,
+    "district_id": 198
+  },
+  {
+    "id": 581,
+    "name": "Toshkent qurilish kolleji",
+    "type_id": 2,
+    "district_id": 200
+  },
+  {
+    "id": 582,
+    "name": "Olmazor yengil sanoat kolleji",
+    "type_id": 2,
+    "district_id": 200
+  },
+  {
+    "id": 583,
+    "name": "Respublika musiqa va sanat kolleji",
+    "type_id": 2,
+    "district_id": 200
+  },
+  {
+    "id": 584,
+    "name": "Sirg'ali tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 201
+  },
+  {
+    "id": 585,
+    "name": "Sirg'ali tuman turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 201
+  },
+  {
+    "id": 586,
+    "name": "Sirg'ali tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 201
+  },
+  {
+    "id": 587,
+    "name": "Toshkent politexnika texnikumi",
+    "type_id": 2,
+    "district_id": 201
+  },
+  {
+    "id": 588,
+    "name": "Toshkent shahar yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 204
+  },
+  {
+    "id": 589,
+    "name": "Toshkent soliq texnikumi",
+    "type_id": 2,
+    "district_id": 204
+  },
+  {
+    "id": 590,
+    "name": "Chilonzor tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 591,
+    "name": "Chilonzor tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 592,
+    "name": "Toshkent pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 593,
+    "name": "Toshkent xodimlarni boshqarish va mehnatni muhofaza qilish kolleji",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 594,
+    "name": "Toshkent avtomobil va yo'llar texnikumi",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 595,
+    "name": "1-Respublika Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 596,
+    "name": "Chilonzor Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 202
+  },
+  {
+    "id": 597,
+    "name": "Shayxontohur tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 203
+  },
+  {
+    "id": 598,
+    "name": "Noshirlik-matbaa faoliyati sohasida mutaxassislarni tayyorlash kolleji",
+    "type_id": 2,
+    "district_id": 203
+  },
+  {
+    "id": 599,
+    "name": "2-Respublika tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 203
+  },
+  {
+    "id": 600,
+    "name": "Toshkent gidrometeorologiya texnikumini",
+    "type_id": 2,
+    "district_id": 203
+  },
+  {
+    "id": 601,
+    "name": "Yunusobod tuman turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 205
+  },
+  {
+    "id": 602,
+    "name": "Yunusobod Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 205
+  },
+  {
+    "id": 603,
+    "name": "Karim Zaripov nomidagi Respublika estrada va sirk kolleji",
+    "type_id": 2,
+    "district_id": 206
+  },
+  {
+    "id": 604,
+    "name": "Toshkent turizm va mehmonxona menejmenti texnikumi",
+    "type_id": 2,
+    "district_id": 207
+  },
+  {
+    "id": 605,
+    "name": "Beshariq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 166
+  },
+  {
+    "id": 606,
+    "name": "Beshariq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 166
+  },
+  {
+    "id": 607,
+    "name": "Beshariq pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 166
+  },
+  {
+    "id": 608,
+    "name": "Beshariq Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 166
+  },
+  {
+    "id": 609,
+    "name": "Bog'dod tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 181
+  },
+  {
+    "id": 610,
+    "name": "Bog'dod tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 181
+  },
+  {
+    "id": 611,
+    "name": "Bog'dod pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 181
+  },
+  {
+    "id": 612,
+    "name": "Buvayda tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 176
+  },
+  {
+    "id": 613,
+    "name": "Buvayda tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 176
+  },
+  {
+    "id": 614,
+    "name": "Buvayda pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 176
+  },
+  {
+    "id": 615,
+    "name": "Buvayda tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 176
+  },
+  {
+    "id": 616,
+    "name": "Dang'ara tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 180
+  },
+  {
+    "id": 617,
+    "name": "Dang'ara tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 180
+  },
+  {
+    "id": 618,
+    "name": "Dang'ara ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 180
+  },
+  {
+    "id": 619,
+    "name": "Yozyovon tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 167
+  },
+  {
+    "id": 620,
+    "name": "Yozyovon tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 167
+  },
+  {
+    "id": 621,
+    "name": "Quvasoy shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 168
+  },
+  {
+    "id": 622,
+    "name": "Quvasoy sanoat kolleji",
+    "type_id": 2,
+    "district_id": 168
+  },
+  {
+    "id": 623,
+    "name": "Quvasoy pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 168
+  },
+  {
+    "id": 624,
+    "name": "Quva tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 182
+  },
+  {
+    "id": 625,
+    "name": "Quva suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 182
+  },
+  {
+    "id": 626,
+    "name": "Quva pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 182
+  },
+  {
+    "id": 627,
+    "name": "Quva Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 182
+  },
+  {
+    "id": 628,
+    "name": "Qo'qon shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 629,
+    "name": "Qo'qon pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 630,
+    "name": "Qo'qon tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 631,
+    "name": "Qo'qon avtomobil va yo'llar texnikumi",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 632,
+    "name": "Farg'ona axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 633,
+    "name": "Qo'qon qishloq xo'jaligi va texnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 634,
+    "name": "Qo'qon neft va gaz sanoati texnikumi",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 635,
+    "name": "Qo'qon temir yo'l texnikumi",
+    "type_id": 2,
+    "district_id": 170
+  },
+  {
+    "id": 636,
+    "name": "Qo'shtepa tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 169
+  },
+  {
+    "id": 637,
+    "name": "Qo'shtepa tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 169
+  },
+  {
+    "id": 638,
+    "name": "Qo'shtepa pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 169
+  },
+  {
+    "id": 639,
+    "name": "Marg'ilon shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 640,
+    "name": "Marg'ilon shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 641,
+    "name": "Marg'ilon pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 642,
+    "name": "Marg'ilon turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 643,
+    "name": "Marg'ilon ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 644,
+    "name": "Marg'ilon arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 645,
+    "name": "Marg'ilon Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 646,
+    "name": "2-Marg'ilon Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 647,
+    "name": "Marg'ilon bank-moliya texnikumi",
+    "type_id": 2,
+    "district_id": 171
+  },
+  {
+    "id": 648,
+    "name": "Oltiariq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 179
+  },
+  {
+    "id": 649,
+    "name": "Oltiariq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 179
+  },
+  {
+    "id": 650,
+    "name": "Oltiariq pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 179
+  },
+  {
+    "id": 651,
+    "name": "Oltiariq sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 179
+  },
+  {
+    "id": 652,
+    "name": "Rishton tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 177
+  },
+  {
+    "id": 653,
+    "name": "Rishton tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 177
+  },
+  {
+    "id": 654,
+    "name": "Rishton pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 177
+  },
+  {
+    "id": 655,
+    "name": "Rishton Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 177
+  },
+  {
+    "id": 656,
+    "name": "So'x tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 174
+  },
+  {
+    "id": 657,
+    "name": "So'x pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 174
+  },
+  {
+    "id": 658,
+    "name": "Toshloq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 178
+  },
+  {
+    "id": 659,
+    "name": "Toshloq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 178
+  },
+  {
+    "id": 660,
+    "name": "Toshloq texnik xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 178
+  },
+  {
+    "id": 661,
+    "name": "O'zbekiston tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 173
+  },
+  {
+    "id": 662,
+    "name": "O'zbekiston tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 173
+  },
+  {
+    "id": 663,
+    "name": "O'zbekiston tumani pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 173
+  },
+  {
+    "id": 664,
+    "name": "O'zbekiston sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 173
+  },
+  {
+    "id": 665,
+    "name": "Uchko'prik tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 165
+  },
+  {
+    "id": 666,
+    "name": "Uchko'prik tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 165
+  },
+  {
+    "id": 667,
+    "name": "Farg'ona tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 175
+  },
+  {
+    "id": 668,
+    "name": "Farg'ona tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 175
+  },
+  {
+    "id": 669,
+    "name": "Farg'ona tumani tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 175
+  },
+  {
+    "id": 670,
+    "name": "Farg'ona transport va servis texnikumi",
+    "type_id": 2,
+    "district_id": 175
+  },
+  {
+    "id": 671,
+    "name": "Farg'ona shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 672,
+    "name": "Farg'ona imkoniyati cheklangan shaxslar uchun ixtisoslashtirilgan kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 673,
+    "name": "Farg'ona pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 674,
+    "name": "2-Farg'ona tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 675,
+    "name": "Farg'ona neft va gaz sanoati kolleji",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 676,
+    "name": "Farg'ona sanoat va xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 677,
+    "name": "Farg'ona soliq texnikumi",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 678,
+    "name": "Farg'ona viloyat yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 679,
+    "name": "Farg'ona ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 183
+  },
+  {
+    "id": 680,
+    "name": "Furqat tuman kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 172
+  },
+  {
+    "id": 681,
+    "name": "Furqat pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 172
+  },
+  {
+    "id": 682,
+    "name": "Bog'ot tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 186
+  },
+  {
+    "id": 683,
+    "name": "Bog'ot tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 186
+  },
+  {
+    "id": 684,
+    "name": "Bog'ot yengil sanoat texnikumi",
+    "type_id": 2,
+    "district_id": 186
+  },
+  {
+    "id": 685,
+    "name": "Gurlan tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 187
+  },
+  {
+    "id": 686,
+    "name": "Gurlan tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 187
+  },
+  {
+    "id": 687,
+    "name": "Gurlan tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 187
+  },
+  {
+    "id": 688,
+    "name": "Qo'shko'pir tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 188
+  },
+  {
+    "id": 689,
+    "name": "Qo'shko'pir tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 188
+  },
+  {
+    "id": 690,
+    "name": "Qo'shko'pir uy-joy kommunal xo'jaligi kolleji",
+    "type_id": 2,
+    "district_id": 188
+  },
+  {
+    "id": 691,
+    "name": "Qo'shko'pir suv xo'jaligi va melioratsiya kolleji",
+    "type_id": 2,
+    "district_id": 188
+  },
+  {
+    "id": 692,
+    "name": "Urganch tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 189
+  },
+  {
+    "id": 693,
+    "name": "Urganch tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 189
+  },
+  {
+    "id": 694,
+    "name": "Xorazm viloyati yuridik texnikumi",
+    "type_id": 2,
+    "district_id": 189
+  },
+  {
+    "id": 695,
+    "name": "Urganch tuman ko'p tarmoqli texnikumi",
+    "type_id": 2,
+    "district_id": 189
+  },
+  {
+    "id": 696,
+    "name": "Urganch agrotexnologiyalar texnikumi",
+    "type_id": 2,
+    "district_id": 189
+  },
+  {
+    "id": 697,
+    "name": "Urganch shahar 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 698,
+    "name": "Urganch shahar 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 699,
+    "name": "Urganch sharq tillari va xizmat ko'rsatish texnikumi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 700,
+    "name": "Xorazm arxitektura va qurilish texnikumi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 701,
+    "name": "Urganch Abu Ali ibn Sino nomidagi Jamoat salomatligi texnikumi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 702,
+    "name": "Urganch avtomobil va yo'llar texnikumi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 703,
+    "name": "Urganch axborot texnologiyalari texnikumi",
+    "type_id": 2,
+    "district_id": 184
+  },
+  {
+    "id": 704,
+    "name": "Xiva tumani kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 192
+  },
+  {
+    "id": 705,
+    "name": "Xiva shahar kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 185
+  },
+  {
+    "id": 706,
+    "name": "Xiva pedagogika kolleji ",
+    "type_id": 2,
+    "district_id": 185
+  },
+  {
+    "id": 707,
+    "name": "Xiva turizm va servis kolleji",
+    "type_id": 2,
+    "district_id": 185
+  },
+  {
+    "id": 708,
+    "name": "Xiva tibbiyot kolleji",
+    "type_id": 2,
+    "district_id": 185
+  },
+  {
+    "id": 709,
+    "name": "Xiva qishloq xo'jalik texnikumi",
+    "type_id": 2,
+    "district_id": 185
+  },
+  {
+    "id": 710,
+    "name": "Xiva xizmat ko'rsatish va servis texnikumi",
+    "type_id": 2,
+    "district_id": 185
+  },
+  {
+    "id": 711,
+    "name": "Hazorasp tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 190
+  },
+  {
+    "id": 712,
+    "name": "Hazorasp tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 190
+  },
+  {
+    "id": 713,
+    "name": "Hazorasp tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 190
+  },
+  {
+    "id": 714,
+    "name": "Hazorasp pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 190
+  },
+  {
+    "id": 715,
+    "name": "Pitnak avtomobilsozlik kolleji",
+    "type_id": 2,
+    "district_id": 190
+  },
+  {
+    "id": 716,
+    "name": "Xonqa tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 191
+  },
+  {
+    "id": 717,
+    "name": "Xonqa tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 191
+  },
+  {
+    "id": 718,
+    "name": "Xonqa tuman 3-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 191
+  },
+  {
+    "id": 719,
+    "name": "Xonqa pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 191
+  },
+  {
+    "id": 720,
+    "name": "Shovot tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 193
+  },
+  {
+    "id": 721,
+    "name": "Shovot tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 193
+  },
+  {
+    "id": 722,
+    "name": "Yangiariq tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 194
+  },
+  {
+    "id": 723,
+    "name": "Yangiariq tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 194
+  },
+  {
+    "id": 724,
+    "name": "Yangiariq qurilish va transport texnikumi",
+    "type_id": 2,
+    "district_id": 194
+  },
+  {
+    "id": 725,
+    "name": "Yangibozor tuman 1-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 195
+  },
+  {
+    "id": 726,
+    "name": "Yangibozor tuman 2-son kasb-hunar maktabi",
+    "type_id": 2,
+    "district_id": 195
+  },
+  {
+    "id": 727,
+    "name": "Yangibozor pedagogika kolleji",
+    "type_id": 2,
+    "district_id": 195
+  }
+]
